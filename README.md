@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/eaba25ee-251f-4ffb-a6a4-be724cb96bfc
+
 # Financial Data Analyst Agent
 
 This is a chatbot that actually does math on your financial data. Most chatbots just guess the next word, which is bad for numbers. This one is different—it writes and runs real Python code to give you accurate answers about your portfolio holdings and trades.
